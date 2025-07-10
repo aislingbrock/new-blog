@@ -21,7 +21,7 @@ tags:
 *This text will be italic*\
 *This will also be italic*
 
-**This text will be bold**\
+**Not great but usable. And maybe I can change it. This text will be bold**\
 **This will also be bold**
 
 *You **can** combine them*
