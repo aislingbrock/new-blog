@@ -18,3 +18,39 @@ body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
 }
+
+.paper {
+color: var(--color-orange-50);
+}
+
+.peach {
+color: var(--color-orange-100);
+}
+
+.terracotta {
+color: var(--color-orange-700);
+}
+
+.wine {
+color: var(--color-red-800);
+}
+
+.wine {
+color: var(--color-red-800);
+}
+
+.text {
+color: var(--color-orange-950);
+}
+
+.text {
+color: var(--color-orange-950);
+}
+
+.petal {
+color: var(--color-rose-50);
+}
+
+.blush {
+color: var(--color-rose-100);
+}
